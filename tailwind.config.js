@@ -2,7 +2,7 @@
 export default {
 	ontent: [],
 	heme: {
-		tend: {}
-	,
-	lugins: [require('daisyui')]
-};;
+		tend: {},
+		plugins: [require('daisyui')]
+	}
+};
