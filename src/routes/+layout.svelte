@@ -5,3 +5,11 @@
 		});
 	}
 </script>
+
+<!-- Layout markup -->
+<div>
+	<!-- Your layout's content -->
+
+	<slot />
+	<!-- This line is crucial; it renders the child components -->
+</div>
